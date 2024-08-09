@@ -3211,8 +3211,6 @@
                     }
                     handleError(t) {
                         const e = this._findOriginalError(t);
-                        this._console.error("ERROR", t),
-                        e && this._console.error("ORIGINAL ERROR", e)
                     }
                     _findOriginalError(t) {
                         let e = t && Of(t);
@@ -28506,7 +28504,7 @@
                         bootstrap: [Pu]
                     });
                     static \u0275inj = he({
-                        imports: [Fu, r6, OD, MB, TU, eH, _6, sU, _$, jU, EM, Bz, O3, L3, J3, hg, A6.register("ngsw-worker.js", {
+                        imports: [Fu, r6, OD, MB, TU, eH, _6, sU, _$, jU, EM, Bz, O3, L3, J3, hg, A6.register("./assets/ngsw-worker.js", {
                                 enabled: !0,
                                 registrationStrategy: "registerWhenStable:30000"
                             }), EM]
