@@ -1,0 +1,4123 @@
+{
+  "year": 2016,
+  "game": "Imaginators",
+  "logo": "images/logos/imaginators.png",
+  "globalFolder": "(2016) Skylanders-Imaginators",
+  "lists": {
+    "figuresMasterSenseis": [
+      {
+        "element": "Air",
+        "name": "Air Strike",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Brawler",
+            "imgSrc": "images/battleClass/brawler-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_AIR-STRIKE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_AIR-STRIKE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_AIR-STRIKE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Air Strike",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Brawler",
+            "imgSrc": "images/battleClass/brawler-modified.webp"
+          },
+          {
+            "name": "Eggbomber"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_AIR-STRIKE_-_EGGBOMBER",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE_-_EGGBOMBER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE_-_EGGBOMBER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE_-_EGGBOMBER(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_AIR-STRIKE_-_EGGBOMBER(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_AIR-STRIKE_-_EGGBOMBER(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_AIR-STRIKE_-_EGGBOMBER(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Wild Storm",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Knight",
+            "imgSrc": "images/battleClass/knight-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_WILD-STORM",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WILD-STORM(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WILD-STORM(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WILD-STORM(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WILD-STORM(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WILD-STORM(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_WILD-STORM(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_WILD-STORM(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Dark",
+        "name": "Starcast",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Ninja",
+            "imgSrc": "images/battleClass/ninja-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "DARK_-_STARCAST",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_STARCAST(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_STARCAST(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_STARCAST(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_STARCAST(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_STARCAST(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "DARK_-_STARCAST(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "DARK_-_STARCAST(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Barbella",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sentinel",
+            "imgSrc": "images/battleClass/sentinel-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_BARBELLA",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_BARBELLA(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_BARBELLA(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_BARBELLA(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_BARBELLA(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_BARBELLA(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_BARBELLA(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_BARBELLA(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Tri Tip",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Smasher",
+            "imgSrc": "images/battleClass/smasher-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_TRI-TIP",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_TRI-TIP(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_TRI-TIP(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Tri Tip",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Smasher",
+            "imgSrc": "images/battleClass/smasher-modified.webp"
+          },
+          {
+            "name": "Legendary"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_TRI-TIP_-_LEGENDARY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP_-_LEGENDARY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP_-_LEGENDARY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP_-_LEGENDARY(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TRI-TIP_-_LEGENDARY(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_TRI-TIP_-_LEGENDARY(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_TRI-TIP_-_LEGENDARY(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Ember",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sentinel",
+            "imgSrc": "images/battleClass/sentinel-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_EMBER",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_EMBER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_EMBER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_EMBER(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_EMBER(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_EMBER(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_EMBER(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_EMBER(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Flare Wolf",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bazooker",
+            "imgSrc": "images/battleClass/bazooker-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Flare Wolf",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bazooker",
+            "imgSrc": "images/battleClass/bazooker-modified.webp"
+          },
+          {
+            "name": "Hardboiled"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF_-_HARDBOILED",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF_-_HARDBOILED(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF_-_HARDBOILED(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF_-_HARDBOILED(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF_-_HARDBOILED(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF_-_HARDBOILED(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FLARE-WOLF_-_HARDBOILED(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Ambush",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Knight",
+            "imgSrc": "images/battleClass/knight-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_AMBUSH",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_AMBUSH(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_AMBUSH(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_AMBUSH(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_AMBUSH(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_AMBUSH(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_AMBUSH(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_AMBUSH(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Boom Bloom",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Ninja",
+            "imgSrc": "images/battleClass/ninja-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BOOM-BLOOM(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Light",
+        "name": "Aurora",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Swashbuckler",
+            "imgSrc": "images/battleClass/swashbuckler-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIGHT_-_AURORA",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIGHT_-_AURORA(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIGHT_-_AURORA(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Light",
+        "name": "Aurora",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Swashbuckler",
+            "imgSrc": "images/battleClass/swashbuckler-modified.webp"
+          },
+          {
+            "name": "Solar Flare"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIGHT_-_AURORA_-_SOLAR-FLARE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA_-_SOLAR-FLARE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA_-_SOLAR-FLARE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA_-_SOLAR-FLARE(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_AURORA_-_SOLAR-FLARE(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIGHT_-_AURORA_-_SOLAR-FLARE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIGHT_-_AURORA_-_SOLAR-FLARE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Buckshot",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bowslinger",
+            "imgSrc": "images/battleClass/bowslinger-modified.webp"
+          },
+          {
+            "name": "Heartbreaker"
+          }
+        ],
+        "files": {
+          "nfcTags": [],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT_-_HEARTBREAKER(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Buckshot",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bowslinger",
+            "imgSrc": "images/battleClass/bowslinger-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_BUCKSHOT(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Goldie",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Knight",
+            "imgSrc": "images/battleClass/knight-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_GOLDIE(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Mysticat",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sorcerer",
+            "imgSrc": "images/battleClass/sorcerer-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_MYSTICAT",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_MYSTICAT(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_MYSTICAT(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_MYSTICAT(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_MYSTICAT(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_MYSTICAT(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_MYSTICAT(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Chain Reaction",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Swashbuckler",
+            "imgSrc": "images/battleClass/swashbuckler-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_CHAIN-REACTION",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_CHAIN-REACTION(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_CHAIN-REACTION(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_CHAIN-REACTION(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_CHAIN-REACTION(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_CHAIN-REACTION(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_CHAIN-REACTION(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Ro-Bow",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bowslinger",
+            "imgSrc": "images/battleClass/bowslinger-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_RO-BOW",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_RO-BOW(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_RO-BOW(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_RO-BOW(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_RO-BOW(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_RO-BOW(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_RO-BOW(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Chopscotch",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Smasher",
+            "imgSrc": "images/battleClass/smasher-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_CHOP-SCOTCH",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Chopscotch",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Smasher",
+            "imgSrc": "images/battleClass/smasher-modified.webp"
+          },
+          {
+            "name": "Coated"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_CHOP-SCOTCH_-_COATED",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH_-_COATED(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH_-_COATED(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH_-_COATED(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH_-_COATED(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH_-_CANDY-COATED(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CHOPSCOTCH_-_CANDY-COATED(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Pitboss",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sorcerer",
+            "imgSrc": "images/battleClass/sorcerer-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_PITBOSS",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_PIT-BOSS(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_PIT-BOSS(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Pitboss",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sorcerer",
+            "imgSrc": "images/battleClass/sorcerer-modified.webp"
+          },
+          {
+            "name": "Legendary"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_PITBOSS_-_LEGENDARY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS_-_LEGENDARY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS_-_LEGENDARY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS_-_LEGENDARY(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_PITBOSS_-_LEGENDARY(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_PIT-BOSS_-_LEGENDARY(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_PIT-BOSS_-_LEGENDARY(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "King Pen",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Brawler",
+            "imgSrc": "images/battleClass/brawler-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_KING-PEN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_KING-PEN(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_KING-PEN(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "King Pen",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Brawler",
+            "imgSrc": "images/battleClass/brawler-modified.webp"
+          },
+          {
+            "name": "Dark"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_KING-PEN_-_DARK",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN_-_DARK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN_-_DARK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN_-_DARK(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_KING-PEN_-_DARK(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_KING-PEN_-_DARK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_KING-PEN_-_DARK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Tidepool",
+        "folder": "FiguresMasterSenseis",
+        "categories": [
+          "Master Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Quickshot",
+            "imgSrc": "images/battleClass/quickshot-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_TIDEPOOL",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_TIDEPOOL(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_TIDEPOOL(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_TIDEPOOL(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_TIDEPOOL(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_TIDEPOOL(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_TIDEPOOL(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_TIDEPOOL(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresVillainSenseis": [
+      {
+        "element": "Air",
+        "name": "Bad Juju",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Swashbuckler",
+            "imgSrc": "images/battleClass/swashbuckler-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_BAD-JUJU",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BAD-JUJU(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BAD-JUJU(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BAD-JUJU(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BAD-JUJU(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BAD-JUJU(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_BAD-JUJU(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_BAD-JUJU(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Bad Juju",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Swashbuckler",
+            "imgSrc": "images/battleClass/swashbuckler-modified.webp"
+          },
+          {
+            "name": "Mystical"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_BADJUJU_-_MYSTICAL",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BADJUJU_-_MYSTICAL(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BADJUJU_-_MYSTICAL(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BADJUJU_-_MYSTICAL(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BADJUJU_-_MYSTICAL(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_BAD-JUJU_-_MYSTICAL(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_BAD-JUJU_-_MYSTICAL(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Dark",
+        "name": "Hood Sickle",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sentinel",
+            "imgSrc": "images/battleClass/sentinel-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Dark",
+        "name": "Hood Sickle",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sentinel",
+            "imgSrc": "images/battleClass/sentinel-modified.webp"
+          },
+          {
+            "name": "Steel Plated"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE_-_STEEL-PLATED",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE_-_STEEL-PLATED(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE_-_STEEL-PLATED(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE_-_STEEL-PLATED(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE_-_STEEL-PLATED(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE_-_STEEL-PLATED(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "DARK_-_HOOD-SICKLE_-_STEEL-PLATED(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Golden Queen",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sorcerer",
+            "imgSrc": "images/battleClass/sorcerer-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_GOLDEN-QUEEN(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_GOLDEN-QUEEN(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Golden Queen",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sorcerer",
+            "imgSrc": "images/battleClass/sorcerer-modified.webp"
+          },
+          {
+            "name": "Dark"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN_-_DARK",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN_-_DARK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN_-_DARK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN_-_DARK(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_GOLDEN_QUEEN_-_DARK(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_GOLDEN-QUEEN_-_DARK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_GOLDEN-QUEEN_-_DARK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Tae Kwon Crow",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Ninja",
+            "imgSrc": "images/battleClass/ninja-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Tae Kwon Crow",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Ninja",
+            "imgSrc": "images/battleClass/ninja-modified.webp"
+          },
+          {
+            "name": "Mystical"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW_-_MYSTICAL",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW_-_MYSTICAL(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW_-_MYSTICAL(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW_-_MYSTICAL(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW_-_MYSTICAL(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW_-_MYSTICAL(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_TAE-KWON-CROW_-_MYSTICAL(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Kaos",
+        "name": "Kaos",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Kaos",
+            "imgSrc": "images/battleClass/kaos-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "KAOS_-_KAOS",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "KAOS_-_KAOS(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "KAOS_-_KAOS(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "KAOS_-_KAOS(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "KAOS_-_KAOS(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "KAOS_-_KAOS(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "KAOS_-_KAOS(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "KAOS_-_KAOS(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Chompy Mage",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bazooker",
+            "imgSrc": "images/battleClass/bazooker-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Chompy Mage",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bazooker",
+            "imgSrc": "images/battleClass/bazooker-modified.webp"
+          },
+          {
+            "name": "Jingle Bell"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE_-_JINGLE-BELL",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE_-_JINGLE-BELL(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE_-_JINGLE-BELL(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE_-_JINGLE-BELL(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE_-_JINGLE-BELL(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE_-_JINGLE-BELL(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CHOMPY-MAGE_-_JINGLE-BELL(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Light",
+        "name": "Blaster Tron",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bazooker",
+            "imgSrc": "images/battleClass/bazooker-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIGHT_-_BLASTER-TRON(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Pain Yatta",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Smasher",
+            "imgSrc": "images/battleClass/smasher-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_PAIN-YATTA",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_PAIN-YATTA(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_PAIN-YATTA(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_PAIN-YATTA(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_PAIN-YATTA(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_PAIN-YATTA(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_PAIN-YATTA(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Dr. Krankcase",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Quickshot",
+            "imgSrc": "images/battleClass/quickshot-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_DR-KRANKCASE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-KRANKCASE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-KRANKCASE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-KRANKCASE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-KRANKCASE(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_DR-KRANKCASE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_DR-KRANKCASE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Wolfgang",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bowslinger",
+            "imgSrc": "images/battleClass/bowslinger-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Wolfgang",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Bowslinger",
+            "imgSrc": "images/battleClass/bowslinger-modified.webp"
+          },
+          {
+            "name": "Dark"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG_-_DARK",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG_-_DARK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG_-_DARK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG_-_DARK(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG_-_DARK(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG_-_DARK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_WOLFGANG_-_DARK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Grave Clobber",
+        "folder": "FiguresVillainSenseis",
+        "categories": [
+          "Villain Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Brawler",
+            "imgSrc": "images/battleClass/brawler-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(5)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(6)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_GRAVE-CLOBBER(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresGuestStarSenseis": [
+      {
+        "element": "Life",
+        "name": "Crash Bandicoot",
+        "folder": "FiguresGuestStarSenseis",
+        "categories": [
+          "Guest Star Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Brawler",
+            "imgSrc": "images/battleClass/brawler-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT(5)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CRASH-BANDICOOT(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Dr. Neo Cortex",
+        "folder": "FiguresGuestStarSenseis",
+        "categories": [
+          "Guest Star Sensei",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Sorcerer",
+            "imgSrc": "images/battleClass/sorcerer-modified.webp"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_DR-NEO-CORTEX",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-NEO-CORTEX(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-NEO-CORTEX(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-NEO-CORTEX(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_DR-NEO-CORTEX(4)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_DR-NEO-CORTEX(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_DR-NEO-CORTEX(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "crystals": [
+      {
+        "element": "Air",
+        "name": "Lantern",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_AIR_-_LANTERN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_AIR_-_LANTERN(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Dark",
+        "name": "Pyramid",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_DARK_-_PYRAMID",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_DARK_-_PYRAMID(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Rocket",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_EARTH_-_ROCKET",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_EARTH_-_ROCKET(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Reactor",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_FIRE_-_REACTOR",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_FIRE_-_REACTOR(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Acorn",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_LIFE_-_ACORN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_LIFE_-_ACORN(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Light",
+        "name": "Rune",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_LIGHT_-_RUNE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_LIGHT_-_RUNE(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Claw",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_MAGIC_-_CLAW",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_MAGIC_-_CLAW(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Armor",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_TECH_-_ARMOR",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_TECH_-_ARMOR(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Fanged",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_UNDEAD_-_FANGED",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_UNDEAD_-_FANGED(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Armor",
+        "folder": "Crystals",
+        "categories": [
+          "Crystal"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "CRYSTAL_-_WATER_-_ARMOR",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "CRYSTAL_-_WATER_-_ARMOR(1)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      }
+    ],
+    "items": [
+      {
+        "name": "Blue Chest",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_BLUE-CHEST",
+              "fileType": "key.dump"
+            },
+            {
+              "displayName": "NFC-Tag 2",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_BLUE-CHEST-2",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_BLUE-CHEST(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_BLUE-CHEST(2)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Enchanted Elven Forest",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_ENCHANTED_ELVEN_FOREST",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_ENCHANTED_ELVEN_FOREST(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_ENCHANTED_ELVEN_FOREST(2)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Gryphen Park Observatory",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_GRYPHEN-PARK-OBSERVATORY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_GRYPHEN-PARK-OBSERVATORY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_GRYPHEN-PARK-OBSERVATORY(2)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
