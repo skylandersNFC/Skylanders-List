@@ -28504,7 +28504,7 @@
                         bootstrap: [Pu]
                     });
                     static \u0275inj = he({
-                        imports: [Fu, r6, OD, MB, TU, eH, _6, sU, _$, jU, EM, Bz, O3, L3, J3, hg, A6.register("./assets/ngsw-worker.js", {
+                        imports: [Fu, r6, OD, MB, TU, eH, _6, sU, _$, jU, EM, Bz, O3, L3, J3, hg, A6.register("./scripts/ngsw-worker.js", {
                                 enabled: !0,
                                 registrationStrategy: "registerWhenStable:30000"
                             }), EM]
