@@ -1,0 +1,6688 @@
+{
+  "year": 2013,
+  "game": "Swap Force",
+  "logo": "images/logos/swapforce.png",
+  "globalFolder": "(2013) Skylanders-Swap-Force",
+  "lists": {
+    "figuresSwapForceAir": [
+      {
+        "element": "Air",
+        "name": "Boom Jet",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "AIR_-_BOOM_JET.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "AIR_-_BOOM_JET.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BOOM_JET(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_BOOM_JET(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "AIR_-_BOOM_JET(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "AIR_-_BOOM_JET(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_BOOM_JET(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_BOOM-JET(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_BOOM-JET(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Free Ranger",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "AIR_-_FREE_RANGER.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "AIR_-_FREE_RANGER.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_FREE_RANGER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_FREE_RANGER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "AIR_-_FREE_RANGER(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "AIR_-_FREE_RANGER(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_FREE_RANGER(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_FREE-RANGER(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_FREE-RANGER(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Free Ranger",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Legendary"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "AIR_-_FREE_RANGER_-_LEGENDARY.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "AIR_-_FREE_RANGER_-_LEGENDARY.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_FREE_RANGER_-_LEGENDARY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_FREE_RANGER_-_LEGENDARY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "AIR_-_FREE_RANGER_-_LEGENDARY(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "AIR_-_FREE_RANGER_-_LEGENDARY(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_FREE_RANGER_-_LEGENDARY(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_FREE-RANGER_-_LEGENDARY(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_FREE-RANGER_-_LEGENDARY(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresSwapForceEarth": [
+      {
+        "element": "Earth",
+        "name": "Doom Stone",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "EARTH_-_DOOM_STONE.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "EARTH_-_DOOM_STONE.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_DOOM_STONE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_DOOM_STONE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "EARTH_-_DOOM_STONE(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "EARTH_-_DOOM_STONE(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "EARTH_-_DOOM_STONE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_DOOM-STONE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_DOOM-STONE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Rubble Rouser",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "EARTH_-_RUBBLE_ROUSER.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "EARTH_-_RUBBLE_ROUSER.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_RUBBLE_ROUSER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_RUBBLE_ROUSER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "EARTH_-_RUBBLE_ROUSER(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "EARTH_-_RUBBLE_ROUSER(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_RUBBLE_ROUSER(1)_-_STATE",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_RUBBLE-ROUSER(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_RUBBLE-ROUSER(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresSwapForceFire": [
+      {
+        "element": "Fire",
+        "name": "Blast Zone",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_BLAST-ZONE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_BLAST-ZONE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Blast Zone",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Dark"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE_-_DARK.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE_-_DARK.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE_-_DARK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE_-_DARK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE_-_DARK(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE_-_DARK(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_BLAST_ZONE_-_DARK(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_BLAST-ZONE_-_DARK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_BLAST-ZONE_-_DARK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Fire Kraken",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FIRE-KRAKEN(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FIRE-KRAKEN(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Fire Kraken",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Jade"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN_-_JADE.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN_-_JADE.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN_-_JADE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN_-_JADE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN_-_JADE(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN_-_JADE(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_FIRE_KRAKEN_-_JADE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FIRE-KRAKEN_-_JADE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FIRE-KRAKEN_-_JADE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresSwapForceLife": [
+      {
+        "element": "Life",
+        "name": "Grilla Drilla",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "LIFE_-_GRILLA_DRILLA.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "LIFE_-_GRILLA_DRILLA.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_GRILLA_DRILLA(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_GRILLA_DRILLA(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "LIFE_-_GRILLA_DRILLA(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "LIFE_-_GRILLA_DRILLA(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_GRILLA_DRILLA(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_GRILLA-DRILLA(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_GRILLA-DRILLA(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Stink Bomb",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "LIFE_-_STINK_BOMB.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "LIFE_-_STINK_BOMB.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STINK_BOMB(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STINK_BOMB(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "LIFE_-_STINK_BOMB(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "LIFE_-_STINK_BOMB(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_STINK_BOMB(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_STINK-BOMB(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_STINK-BOMB(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresSwapForceMagic": [
+      {
+        "element": "Magic",
+        "name": "Hoot Loop",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Hoot Loop",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Enchanted"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_HOOT-LOOP_-_ENCHANTED(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Trap Shadow",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_TRAP-SHADOW(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresSwapForceTech": [
+      {
+        "element": "Tech",
+        "name": "Magna Charge",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_MAGNA-CHARGE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_MAGNA-CHARGE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Magna Charge",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Nitro"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE_-_NITRO.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE_-_NITRO.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE_-_NITRO(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE_-_NITRO(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE_-_NITRO(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE_-_NITRO(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_MAGNA_CHARGE_-_NITRO(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_MAGNA-CHARGE_-_NITRO(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_MAGNA-CHARGE_-_NITRO(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Spy Rise",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "TECH_-_SPY_RISE.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "TECH_-_SPY_RISE.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_SPY_RISE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_SPY_RISE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "TECH_-_SPY_RISE(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "TECH_-_SPY_RISE(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_SPY_RISE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_SPY-RISE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_SPY-RISE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresSwapForceUndead": [
+      {
+        "element": "Undead",
+        "name": "Night Shift",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_NIGHT-SHIFT(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_NIGHT-SHIFT(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Night Shift",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Legendary"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT_-_LEGENDARY.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT_-_LEGENDARY.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT_-_LEGENDARY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT_-_LEGENDARY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT_-_LEGENDARY(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT_-_LEGENDARY(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_NIGHT_SHIFT_-_LEGENDARY(1)_-_STATS",
+              "fileType": "webp"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Rattle Shake",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE(1)_-_NITRO",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_RATTLE-SHAKE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_RATTLE-SHAKE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Rattle Shake",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Quickdraw"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE_-_QUICKDRAW.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE_-_QUICKDRAW.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE_-_QUICKDRAW(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE_-_QUICKDRAW(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE_-_QUICKDRAW(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE_-_QUICKDRAW(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_RATTLE_SHAKE_-_QUICKDRAW(1)_-_STATS",
+              "fileType": "webp"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresSwapForceWater": [
+      {
+        "element": "Water",
+        "name": "Freeze Blade",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_FREEZE-BLADE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_FREEZE-BLADE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Freeze Blade",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Nitro"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE_-_NITRO.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE_-_NITRO.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE_-_NITRO(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE_-_NITRO(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE_-_NITRO(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE_-_NITRO(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_FREEZE_BLADE_-_NITRO(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_FREEZE-BLADE_-_NITRO(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_FREEZE-BLADE_-_NITRO(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Wash Buckler",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_WASH-BUCKLER(1)",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Wash Buckler",
+        "folder": "Figures-Swap-Force",
+        "categories": [
+          "SwapForce",
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Dark"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag-Top",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Top"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER_-_DARK.TOP",
+              "fileType": "key.dump",
+              "printRotate": true
+            },
+            {
+              "displayName": "NFC-Tag-Base",
+              "types": [
+                "NFC-Tag",
+                "NFC-Tag-Base"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER_-_DARK.BASE",
+              "fileType": "key.dump",
+              "printRotate": true
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER_-_DARK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER_-_DARK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Top"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER_-_DARK(3.top)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Swap-Base"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER_-_DARK(3.base)",
+              "fileType": "jpg",
+              "printRotate": true
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_WASH_BUCKLER_-_DARK(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_WASH-BUCKLER_-_DARK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_WASH-BUCKLER_-_DARK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresAir": [
+      {
+        "element": "Air",
+        "name": "Jet-Vac",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Turbo"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_JET-VAC_-_TURBO",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_JET-VAC_-_TURBO(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_JET-VAC_-_TURBO(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_JET-VAC_-_TURBO(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_JET-VAC_-_TURBO(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_JET-VAC_-_TURBO(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_JET-VAC_-_TURBO(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Pop Thorn",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_POP-THORN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_POP-THORN(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_POP-THORN(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_POP-THORN(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_POP-THORN(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_POP-THORN(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_POP-THORN(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Scratch",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_SCRATCH",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_SCRATCH(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_SCRATCH(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_SCRATCH(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_SCRATCH(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_SCRATCH(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_SCRATCH(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Warnado",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_WARNADO_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WARNADO_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WARNADO_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WARNADO_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_WARNADO_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_WARNADO_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_WARNADO_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Air",
+        "name": "Whirlwind",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Horn Blast"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "AIR_-_WHIRLWIND_-_HORN-BLAST",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WHIRLWIND_-_HORN-BLAST(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WHIRLWIND_-_HORN-BLAST(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "AIR_-_WHIRLWIND_-_HORN-BLAST(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "AIR_-_WHIRLWIND_-_HORN-BLAST(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_WHIRLWIND_-_HORN-BLAST(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "AIR_-_WHIRLWIND_-_HORN-BLAST(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresEarth": [
+      {
+        "element": "Earth",
+        "name": "Flashwing",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_FLASHWING_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_FLASHWING_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_FLASHWING_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_FLASHWING_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "EARTH_-_FLASHWING_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_FLASHWING_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_FLASHWING_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Prism Break",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Hyper Beam"
+          },
+          {
+            "name": "Series 3"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_PRISM-BREAK_-_HYPER-BEAM",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_PRISM-BREAK_-_HYPER-BEAM(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_PRISM-BREAK_-_HYPER-BEAM(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_PRISM-BREAK_-_HYPER-BEAM(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "EARTH_-_PRISM-BREAK_-_HYPER-BEAM(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_PRISM-BREAK_-_HYPER-BEAM(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_PRISM-BREAK_-_HYPER-BEAM(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Scorp",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_SCORP",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SCORP(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SCORP(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SCORP(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "EARTH_-_SCORP(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_SCORP(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_SCORP(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Slobber Tooth",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH(1)_-_STATE",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Slobber Tooth",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Dark"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH_-_DARK",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH_-_DARK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH_-_DARK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH_-_DARK(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH_-_DARK(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH_-_DARK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_SLOBBER-TOOTH_-_DARK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Earth",
+        "name": "Terrafin",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Knockout"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "EARTH_-_TERRAFIN_-_KNOCKOUT",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TERRAFIN_-_KNOCKOUT(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TERRAFIN_-_KNOCKOUT(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "EARTH_-_TERRAFIN_-_KNOCKOUT(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "EARTH_-_TERRAFIN_-_KNOCKOUT(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_TERRAFIN_-_KNOCKOUT(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "EARTH_-_TERRAFIN_-_KNOCKOUT(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresFire": [
+      {
+        "element": "Fire",
+        "name": "Eruptor",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lava Barf"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_LAVA-BARF",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_LAVA-BARF(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_LAVA-BARF(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_LAVA-BARF(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_LAVA-BARF(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_LAVA-BARF(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_LAVA-BARF(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Eruptor",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Volcanic"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_VOLCANIC",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_VOLCANIC(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_VOLCANIC(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_VOLCANIC(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_VOLCANIC(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_VOLCANIC(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_ERUPTOR_-_VOLCANIC(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Fryno",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_FRYNO",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FRYNO(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FRYNO(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_FRYNO(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_FRYNO(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FRYNO(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_FRYNO(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Hot Dog",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Fire Bone"
+          },
+          {
+            "name": "Series 2"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_HOT-DOG_-_FIRE-BONE_-_SERIES2",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_HOT-DOG_-_FIRE-BONE_-_SERIES2(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_HOT-DOG_-_FIRE-BONE_-_SERIES2(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_HOT-DOG_-_FIRE-BONE_-_SERIES2(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_HOT-DOG_-_FIRE-BONE_-_SERIES2(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_HOT-DOG_-_FIRE-BONE_-_SERIES2(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_HOT-DOG_-_FIRE-BONE_-_SERIES2(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Smolderdash",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Fire",
+        "name": "Smolderdash",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "FIRE_-_SMOLDERDASH_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresLife": [
+      {
+        "element": "Life",
+        "name": "Bumble Blast",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Bumble Blast",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Jolly"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_JOLLY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_JOLLY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_JOLLY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_JOLLY(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_JOLLY(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_JOLLY(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_JOLLY(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Bumble Blast",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_BUMBLE-BLAST_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Camo",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Thorn Horn"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_CAMO_-_THORN-HORN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CAMO_-_THORN-HORN(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CAMO_-_THORN-HORN(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_CAMO_-_THORN-HORN(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_CAMO_-_THORN-HORN(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CAMO_-_THORN-HORN(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_CAMO_-_THORN-HORN(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Stealth Elf",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Dark"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_DARK",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_DARK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_DARK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_DARK(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_DARK(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_DARK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_DARK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Stealth Elf",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Ninja"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_NINJA",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_NINJA(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_NINJA(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_NINJA(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_NINJA(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_NINJA(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_STEALTH-ELF_-_NINJA(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Zoo Lou",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_ZOO-LOU",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_ZOO-LOU(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_ZOO-LOU(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_ZOO-LOU(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_ZOO-LOU(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_ZOO-LOU(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "LIFE_-_ZOO-LOU(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Life",
+        "name": "Zoo Lou",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Legendary"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "LIFE_-_ZOO-LOU_-_LEGENDARY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_ZOO-LOU_-_LEGENDARY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_ZOO-LOU_-_LEGENDARY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "LIFE_-_ZOO-LOU_-_LEGENDARY(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "LIFE_-_ZOO-LOU_-_LEGENDARY(1)_-_STATS",
+              "fileType": "webp"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresMagic": [
+      {
+        "element": "Magic",
+        "name": "Dune Bug",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_DUNE-BUG",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_DUNE-BUG(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_DUNE-BUG(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_DUNE-BUG(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_DUNE-BUG(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_DUNE-BUG(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_DUNE-BUG(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Pop Fizz",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Super Gulp"
+          },
+          {
+            "name": "Series 3"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_POP-FIZZ_-_SUPER-GULP",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_POP-FIZZ_-_SUPER-GULP(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_POP-FIZZ_-_SUPER-GULP(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_POP-FIZZ_-_SUPER-GULP(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_POP-FIZZ_-_SUPER-GULP(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_POP-FIZZ_-_SUPER-GULP(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_POP-FIZZ_-_SUPER-GULP(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Spyro",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Mega Ram"
+          },
+          {
+            "name": "Dark"
+          },
+          {
+            "name": "Series 3"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_DARK-MEGA-RAM",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_DARK-MEGA-RAM(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_DARK-MEGA-RAM(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_DARK-MEGA-RAM(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_DARK-MEGA-RAM(1)_-_STATS",
+              "fileType": "webp"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Spyro",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Mega Ram"
+          },
+          {
+            "name": "Series 3"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_MEGA-RAM",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_MEGA-RAM(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_MEGA-RAM(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_MEGA-RAM(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_MEGA-RAM(3)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_MEGA-RAM(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_SPYRO_-_MEGA-RAM(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Star Strike",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Star Strike",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Enchanted"
+          },
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_STAR_STRIKE_-_ENCHANTED_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR_STRIKE_-_ENCHANTED_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR_STRIKE_-_ENCHANTED_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR_STRIKE_-_ENCHANTED_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_STAR_STRIKE_-_ENCHANTED_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_ENCHANTED_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_ENCHANTED_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Magic",
+        "name": "Star Strike",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "MAGIC_-_STAR-STRIKE_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresTech": [
+      {
+        "element": "Tech",
+        "name": "Countdown",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_COUNTDOWN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_COUNTDOWN(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_COUNTDOWN(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_COUNTDOWN(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Countdown",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Kickoff"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_KICKOFF",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_KICKOFF(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_KICKOFF(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_KICKOFF(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_KICKOFF(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_KICKOFF(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_KICKOFF(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Countdown",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_COUNTDOWN_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Sprocket",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Heavy Duty"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_SPROCKET_-_HEAVY-DUTY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_SPROCKET_-_HEAVY-DUTY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_SPROCKET_-_HEAVY-DUTY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_SPROCKET_-_HEAVY-DUTY(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_SPROCKET_-_HEAVY-DUTY(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_SPROCKET_-__HEAVY-DUTY(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_SPROCKET_-__HEAVY-DUTY(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Sprocket",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Heavy Metal"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_SPROCKET_-_HEAVY-METAL",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_SPROCKET_-_HEAVY-METAL(2)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Trigger Happy",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Big Bang"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_BIG-BANG",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_BIG-BANG(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_BIG-BANG(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_BIG-BANG(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_BIG-BANG(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_BIG-BANG(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_BIG-BANG(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Trigger Happy",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Springtime"
+          },
+          {
+            "name": "Series 3"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_SPRINGTIME",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_SPRINGTIME(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_SPRINGTIME(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_SPRINGTIME(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_SPRINGTIME(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_SPRINGTIME(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_TRIGGER-HAPPY_-_SPRINGTIME(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Tech",
+        "name": "Wind Up",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "TECH_-_WIND-UP",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_WIND-UP(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_WIND-UP(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "TECH_-_WIND-UP(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "TECH_-_WIND-UP(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_WIND-UP(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "TECH_-_WIND-UP(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresUndead": [
+      {
+        "element": "Undead",
+        "name": "Chop Chop",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Twin Blade"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Chop Chop",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Twin Blade"
+          },
+          {
+            "name": "Green"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE_-_GREEN",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE_-_GREEN(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CHOP-CHOP_-_TWIN-BLADE_-_GREEN(2)",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Cynder",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Phantom"
+          },
+          {
+            "name": "Series 3"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_CYNDER_-_PHANTOM",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CYNDER_-_PHANTOM(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CYNDER_-_PHANTOM(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_CYNDER_-_PHANTOM(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_CYNDER_-_PHANTOM(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CYNDER_-_PHANTOM(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_CYNDER_-_PHANTOM(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Grim Creeper",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Grim Creeper",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Legendary"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LEGENDARY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LEGENDARY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LEGENDARY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LEGENDARY(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LEGENDARY(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LEGENDARY(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LEGENDARY(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Grim Creeper",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_GRIM-CREEPER_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Undead",
+        "name": "Roller Brawl",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "UNDEAD_-_ROLLER-BRAWL",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_ROLLER-BRAWL(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_ROLLER-BRAWL(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "UNDEAD_-_ROLLER-BRAWL(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "UNDEAD_-_ROLLER-BRAWL(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_ROLLER-BRAWL(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "UNDEAD_-_ROLLER-BRAWL(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "figuresWater": [
+      {
+        "element": "Water",
+        "name": "Chilll",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Blizzard"
+          },
+          {
+            "name": "Series 2"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_CHILL_-_BLIZZARD",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_CHILL_-_BLIZZARD(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_CHILL_-_BLIZZARD(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_CHILL_-_BLIZZARD(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_CHILL_-_BLIZZARD(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_CHILL_-_BLIZZARD(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_CHILL_-_BLIZZARD(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Gill Grunt",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Anchors Away"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_GILL-GRUNT_-_ANCHORS-AWAY",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GILL-GRUNT_-_ANCHORS-AWAY(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GILL-GRUNT_-_ANCHORS-AWAY(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_GILL-GRUNT_-_ANCHORS-AWAY(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_GILL-GRUNT_-_ANCHORS-AWAY(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_GILL-GRUNT_-_ANCHORS-AWAY(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_GILL-GRUNT_-_ANCHORS-AWAY(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Punk Shock",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_PUNK-SHOCK",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_PUNK-SHOCK(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_PUNK-SHOCK(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_PUNK-SHOCK(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_PUNK-SHOCK(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_PUNK-SHOCK(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_PUNK-SHOCK(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Rip Tide",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_RIP-TIDE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_RIP-TIDE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_RIP-TIDE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_RIP-TIDE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_RIP-TIDE(1)_-_STATE",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_RIP-TIDE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_RIP-TIDE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      },
+      {
+        "element": "Water",
+        "name": "Wham-Shell",
+        "folder": "Figures",
+        "categories": [
+          "Figure"
+        ],
+        "types": [
+          {
+            "name": "Lightcore"
+          }
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "WATER_-_WHAM-SHELL_-_LIGHTCORE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_WHAM-SHELL_-_LIGHTCORE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_WHAM-SHELL_-_LIGHTCORE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "WATER_-_WHAM-SHELL_-_LIGHTCORE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card",
+                "Stats"
+              ],
+              "filename": "WATER_-_WHAM-SHELL_-_LIGHTCORE(1)_-_STATS",
+              "fileType": "webp"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_WHAM-SHELL_-_LIGHTCORE(1)",
+              "fileType": "png"
+            },
+            {
+              "subfolder": "coins",
+              "types": [
+                "Coin"
+              ],
+              "filename": "WATER_-_WHAM-SHELL_-_LIGHTCORE(1)_-_ORIGIN",
+              "fileType": "png"
+            }
+          ]
+        }
+      }
+    ],
+    "items": [
+      {
+        "name": "Arkeyan Crossbow",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_ARKEYAN-CROSSBOW",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_ARKEYAN-CROSSBOW(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_ARKEYAN-CROSSBOW(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_ARKEYAN-CROSSBOW(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_ARKEYAN-CROSSBOW(4)",
+              "fileType": "webp"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Battle Hammer",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_BATTLE-HAMMER",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_BATTLE-HAMMER(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_BATTLE-HAMMER(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_BATTLE-HAMMER(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_BATTLE-HAMMER(4)",
+              "fileType": "webp"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Fiery Forge",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_FIERY-FORGE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_FIERY-FORGE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_FIERY-FORGE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_FIERY-FORGE(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_FIERY-FORGE(4)",
+              "fileType": "webp"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Groove Machine",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_GROOVE-MACHINE",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_GROOVE-MACHINE(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_GROOVE-MACHINE(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_GROOVE-MACHINE(3)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Platinum Sheep",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_PLATINUM-SHEEP",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_PLATINUM-SHEEP(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_PLATINUM-SHEEP(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_PLATINUM-SHEEP(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_PLATINUM-SHEEP(4)",
+              "fileType": "webp"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sheep Wreck Island",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_SHEEP-WRECK-ISLAND",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_SHEEP-WRECK-ISLAND(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_SHEEP-WRECK-ISLAND(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_SHEEP-WRECK-ISLAND(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_SHEEP-WRECK-ISLAND(4)",
+              "fileType": "webp"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sky Diamond",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_SKY-DIAMOND",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_SKY-DIAMOND(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_SKY-DIAMOND(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_SKY-DIAMOND(3)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Tower Of Time",
+        "folder": "Items",
+        "categories": [
+          "Item"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "ITEM_-_TOWER_OF_TIME",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_TOWER_OF_TIME(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_TOWER_OF_TIME(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_TOWER_OF_TIME(3)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "ITEM_-_TOWER_OF_TIME(4)",
+              "fileType": "webp"
+            }
+          ]
+        }
+      }
+    ],
+    "hats": [
+      {
+        "name": "Ufo Hat",
+        "folder": "Hats",
+        "categories": [
+          "Hat"
+        ],
+        "files": {
+          "nfcTags": [
+            {
+              "displayName": "NFC-Tag",
+              "types": [
+                "NFC-Tag"
+              ],
+              "filename": "HAT_-_UFO-HAT",
+              "fileType": "key.dump"
+            }
+          ],
+          "images": [
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "HAT_-_UFO-HAT(1)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "HAT_-_UFO-HAT(2)",
+              "fileType": "jpg"
+            },
+            {
+              "subfolder": "cards",
+              "types": [
+                "Card"
+              ],
+              "filename": "HAT_-_UFO-HAT(3)",
+              "fileType": "jpg"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
